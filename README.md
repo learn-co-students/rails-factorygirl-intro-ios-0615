@@ -1,8 +1,4 @@
----
-languages: ruby
-tags: rspec, factorygirl
-resources: 2
----
+
 
 # FactoryGirl Introduction
 
