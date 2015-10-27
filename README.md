@@ -182,7 +182,7 @@ describe Post, type: :model do
 end
 ```
 
-Notice how I've defined the `post` fixture throughout the Post model tests. In some of the tests, I've built the fixtures just as they're defined in the factories. In the `model validations` section, I've overriden the default value of the `content` attribute in the factory, and assigned a value of `nil`. 
+Notice how I've defined the `post` fixture throughout the Post model tests. In some of the tests, I've built the fixtures just as they're defined in the factories. In the `model validations` section, I've overridden the default value of the `content` attribute in the factory, and assigned a value of `nil`. 
 
 That's it for the Post model.
 
