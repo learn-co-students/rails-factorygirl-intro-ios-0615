@@ -255,3 +255,5 @@ Pretty nifty resource, eh?
 
 * [Github](http://github.com/) - [Getting Started with FactoryGirl](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md)
 * [Slideshare](http://www.slideshare.net) - [Not So Brief Intro to FactoryGirl](http://www.slideshare.net/gabevanslv/factory-girl-15924188)
+
+<a href='https://learn.co/lessons/rails-factorygirl-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
